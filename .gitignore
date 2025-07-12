@@ -1,1 +1,8 @@
 
+# Ignore local packages and compiled files
+ml_project/Lib/
+ml_project/Scripts/
+*.dll
+*.pyd
+*.exe
+__pycache__/
